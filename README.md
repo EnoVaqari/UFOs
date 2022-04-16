@@ -10,11 +10,11 @@ The purpose of this project is to create a webpage that will contain a table wit
 ## Results
 Below is the UFO Sightings webpage and the html preview.
 
-indexpng
+![](https://github.com/EnoVaqari/UFOs/blob/main/static/images/index.png)
 
 Below is a demonstration of the filetring process. The filtered results will appear once any criteria is entered and hit enter.
 
-filter png
+![](https://github.com/EnoVaqari/UFOs/blob/main/static/images/filter_search.png)
 
 
 ## Summary
