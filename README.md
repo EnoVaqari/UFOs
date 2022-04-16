@@ -1,7 +1,4 @@
 # UFOs
-
-# UFOs
-
 ## Overview of the analysis
 
 The purpose of this project is to create a webpage that will contain a table with the UFO data stored as JavaScript array. The table icludes filters by date, city, state, country, and shape to assist users the various type of information needed. In addition, we used HTMl, Bootsrap and CSS to create an appealing and user firendly webpage.
